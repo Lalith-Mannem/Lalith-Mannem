@@ -6,5 +6,5 @@ A passionate web developer💻 and Computer Engineering student at Arizona State
 👨‍💻 All of my projects are available at https://github.com/Lalith-Mannem
 💬 Ask me about Python, Javascript, SQL
 
-- 📫 How to reach me ...
-- Email -- lalithchandrilreddy@gmail.com
+
+- Reach me by email -- lalithchandrilreddy@gmail.com
