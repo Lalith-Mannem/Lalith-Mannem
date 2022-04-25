@@ -1,6 +1,6 @@
 Hi there 👋 , 
 
-I'm Lalith Chandril Reddy Mannem, a Computer Engineering Grad student from Arizona State University who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
+I'm Lalith, a Computer Engineering Grad student from Arizona State University who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
 My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing Scalable solutions.
 
 Programming Languages: Java, C++, JavaScript, Python, HTML/CSS3. 
