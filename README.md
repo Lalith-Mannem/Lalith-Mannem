@@ -1,10 +1,13 @@
-Hi there 👋
-Hey there, I'm Lalith Chandril Reddy Mannem! 👋
-A passionate web developer💻 and Computer Engineering student at Arizona State University 🏫 😀
-🌱 I’m currently learning Python, Web Development and doing some Super Cool Projects related to Machine Learning and Artificial Intelligence
-👯 I’m looking to collaborate on Any Fun, exciting ML Projects or any exciting web-based application
-👨‍💻 All of my projects are available at https://github.com/Lalith-Mannem
-💬 Ask me about Python, Javascript, SQL
+Hi there 👋 , 
+
+I'm Lalith Chandril Reddy Mannem, a Computer Engineering Grad student from Arizona State University who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.
+My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing Scalable solutions.
+
+Programming Languages: Java, C++, JavaScript, Python, HTML/CSS3. 
+Databases: MySQL, MongoDB, SQLite. 
+Technologies: SpringBoot, Angular 8, Node.js, Hibernate, React.js, Express.js, Django, Flask, REST API, GraphQL.
+Libraries: Pandas, NumPY, matplotlib, Seaborn, Scipy, Scikit-learn, NLTK.
+Tools: Git, Docker, Tableau.
 
 
-- Reach me by email -- lalithchandrilreddy@gmail.com
+Please feel free to get in touch with me via email at lalithchandrilreddy@gmail.com
